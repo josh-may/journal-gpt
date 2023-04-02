@@ -1,12 +1,10 @@
 ## 🚨 DISCLAIMER
 
-This project is inspired by Ma
-
-Shout out to Mayo for [Notion Chat Langchain](https://github.com/mayooear/notion-chat-langchain) repo
+This project is inspired by Mayo's [Notion Chat Langchain](https://github.com/mayooear/notion-chat-langchain) project.
 
 ## A ChatBot for Obsidian Notes
 
-This repo uses a Notion template of the support docs from [cron](https://cronhq.notion.site/Cron-Calendar-5625be54feac4e13a75b10271b65ddb7) - a next-generation calendar for professionals and teams
+This repo uses vector embedding and turns your Obsidian notes into a chatbot.
 
 ## Development
 
@@ -36,23 +34,7 @@ PINECONE_ENVIRONMENT=
 
 ## 🧑 Instructions for ingesting your own dataset
 
-Export your dataset from Notion. You can do this by clicking on the three dots in the upper right hand corner and then clicking `Export`.
-
-Follow these Notion instructions: [Exporting your content](https://www.notion.so/help/export-your-content)
-
-When exporting, make sure to select the `Markdown & CSV` format option.
-
-Select `Everything`, `include subpages` and `Create folders for subpages.` Then click `Export`
-
-This will produce a `.zip` file in your Downloads folder. Move the `.zip` file into the root of this repository.
-
-Either unzip the folder using 7-Zip (or WinZip) or run the following Unix/Linux command to unzip the zip file (replace the `Export...` with your own file name).
-
-```shell
-unzip Export-d3adfe0f-3131-4bf3-8987-a52017fc1bae.zip -d Notion_DB
-```
-
-You should see a `Notion_DB` folder in your root folder that contains markdown files and folders of your knowledge base.
+Create an Obsidian_Notes folder in root project and copy and paste your .md Obsidian notes into it.
 
 ## Ingest data
 
