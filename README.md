@@ -1,10 +1,10 @@
-# A ChatBot for Your Notion Knowledge Base
+## 🚨 DISCLAIMER
 
-Create a simple chatbot for question-answering your Notion knowledge base/docs using Openai, Typescript, LangChain and Pinecone.
+This project is inspired by Ma
 
-[Tutorial video](https://www.youtube.com/watch?v=prbloUGlvLE)
+Shout out to Mayo for [Notion Chat Langchain](https://github.com/mayooear/notion-chat-langchain) repo
 
-## 📊 Example Data
+## A ChatBot for Obsidian Notes
 
 This repo uses a Notion template of the support docs from [cron](https://cronhq.notion.site/Cron-Calendar-5625be54feac4e13a75b10271b65ddb7) - a next-generation calendar for professionals and teams
 
