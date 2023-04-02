@@ -1,6 +1,6 @@
 ## 🚨 DISCLAIMER
 
-This project is inspired by Mayo's [Notion Chat Langchain](https://github.com/mayooear/notion-chat-langchain) project.
+This project is inspired by [Notion Chat Langchain](https://github.com/mayooear/notion-chat-langchain) [Mayo](https://twitter.com/mayowaoshin).
 
 ## A ChatBot for Obsidian Notes
 
@@ -59,4 +59,4 @@ You can deploy this app to the cloud with [Vercel](https://vercel.com) ([Documen
 
 ## Credit
 
-This repo is inspired by [notion-qa](https://github.com/hwchase17/notion-qa)
+This repo is inspired by [Notion Chat Langchain](https://github.com/mayooear/notion-chat-langchain) and [notion-qa](https://github.com/hwchase17/notion-qa).
