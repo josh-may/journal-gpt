@@ -1,3 +1,8 @@
+## Demo
+
+https://user-images.githubusercontent.com/72312238/229364024-038462e7-9a6a-4912-a2ed-86399fb43da4.mov
+
+
 ## 🚨 DISCLAIMER
 
 This project is inspired by [Notion Chat Langchain](https://github.com/mayooear/notion-chat-langchain) [Mayo](https://twitter.com/mayowaoshin).
